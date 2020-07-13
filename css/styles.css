@@ -1,4 +1,33 @@
 
+/* ------ Reset Components ------ */
+
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+/* ------   Header  ------ */
+
+
+
+/* ------ Bootstrap - Navbar ------ */
+
+.navbar-dark {
+    background-color: #512da8;
+}
+
+/* ------ Bootstrap - Header ------ */
+
+.jumbotron {
+    padding: 70px 30px;
+    margin: 0px auto;
+    background: #9575CD;
+    color: floralwhite;
+}
+
+
+/* ------ Bootstrap - Row ------ */
+
 .row-header {
     margin: 0px auto;
     padding: 0px auto;
@@ -11,17 +40,12 @@
     min-height: 400px;
 }
 
+/* ------   Footer  ------ */
+
 .footer {
     background-color: #D1C4E9;
     margin: 0px auto;
     padding: 20px 0px;
-}
-
-.jumbotron {
-    padding: 70px 30px;
-    margin: 0px auto;
-    background: #9575CD;
-    color: floralwhite;
 }
 
 .address {
@@ -29,3 +53,4 @@
     margin: 0px;
     color: #0f0f0f;
 }
+
