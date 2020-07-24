@@ -50,3 +50,14 @@ body {
   right: 0px;
   position: absolute;
   bottom: 0px; }
+
+.modal-content .modal-header {
+  background-color: #512DA8; }
+  .modal-content .modal-header .modal-title {
+    color: floralwhite; }
+  .modal-content .modal-header .close {
+    color: floralwhite;
+    text-shadow: 0 1px 0 floralwhite; }
+
+.modal-content .modal-body {
+  background-color: #D1C4E9; }
